@@ -201,3 +201,6 @@ Git — самая популярная в мире распределённая
 
 > git push --delete rep_name branch
 
+
+
+% ветка test3
