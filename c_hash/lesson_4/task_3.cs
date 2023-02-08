@@ -3,7 +3,7 @@
 // Console.Write("Введите число N: ");
 // var N = int.Parse(Console.ReadLine()!);
 
-// void SqrtOfEvenNum(int N){
+// void CubeOfEvenNum(int N){
 //     int result = 0;
 //     for (int i = 1; i <= N; i++){
 //         result += i;
@@ -13,4 +13,4 @@
 //     }
 // }
 
-// SqrtOfEvenNum(N);
+// CubeOfEvenNum(N);
