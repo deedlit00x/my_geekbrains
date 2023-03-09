@@ -9,3 +9,7 @@ while True:
         break
     else:
         user_list.append(tmp)
+
+for el in user_list:
+    if len(str(el)) <= 3:
+        result.append(el)
