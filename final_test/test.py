@@ -13,3 +13,5 @@ while True:
 for el in user_list:
     if len(str(el)) <= 3:
         result.append(el)
+
+print(f"Вы ввели {user_list}, из них соответствуют параметрам: {sorted(result)}")
