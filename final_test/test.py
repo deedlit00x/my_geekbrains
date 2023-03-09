@@ -1,8 +1,6 @@
 def final_test():
     user_list = []
     result = []
-    test_list = []
-    
     while True:
         tmp = (input("Введите текст с клавиатуры, для завершения оставьте поле пустым: "))
         if len(tmp) == 0:
@@ -17,4 +15,3 @@ def final_test():
     print(f"Вы ввели {user_list}, из них соответствуют параметрам: {sorted(result)}")
 
 final_test()
-
